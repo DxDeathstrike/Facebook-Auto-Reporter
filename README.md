@@ -6,8 +6,8 @@
 This Python project automates the process of reporting Facebook accounts using Selenium. It logs into user account, navigates to a target account, and repeatedly submits reports based on user input. The script includes update checking, error/usage notifications, and a built-in updater utility.
 
 **Note:** The selling or sharing of this code without direct permission is prohibited and will be met with consequences.
-
 **Note:** The source code for this script will not be made publicly available; however, script is usable by exe.
+
 ![fb auto report](https://github.com/user-attachments/assets/c5784466-49cf-4327-b2e3-aea46732b956)
 
 
@@ -51,10 +51,11 @@ Requirments are pre-installed however if errors occur download the below
 ## Usage
 1. Download the Files of Repository.
 2. Make sure download is successful and opens.
-3. Enter your Facebook email and password when prompted.
-4. Enter the Facebook account URL you wish to report.
-5. Enter the number of reports to submit (0 for infinite).
-6. Enter a delay in seconds between actions (recommended if you have slow internet or encounter issues) or 0 if normal.
+3. Double Click `fbautoreporter.exe` to Launch.
+4. Enter your Facebook email and password when prompted.
+5. Enter the Facebook account URL you wish to report.
+6. Enter the number of reports to submit (0 for infinite).
+7. Enter a delay in seconds between actions (recommended if you have slow internet or encounter issues) or 0 if normal.
 
 The script will log in, navigate to the target account, and begin submitting reports automatically. Progress and status messages will be printed in the terminal.
 
