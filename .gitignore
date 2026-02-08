@@ -25,3 +25,5 @@ updater.py
 main.txt
 version.txt
 *.txt
+
+.jpg
