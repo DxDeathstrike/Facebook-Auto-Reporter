@@ -26,4 +26,5 @@ main.txt
 version.txt
 *.txt
 
+# Images
 .jpg
