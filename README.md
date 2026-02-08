@@ -8,6 +8,8 @@ This Python project automates the process of reporting Facebook accounts using S
 **Note:** The selling or sharing of this code without direct permission is prohibited and will be met with consequences.
 
 **Note:** The source code for this script will not be made publicly available; however, script is usable by exe.
+![fb auto report](https://github.com/user-attachments/assets/c5784466-49cf-4327-b2e3-aea46732b956)
+
 
 **Warning:** This tool is intended for educational and research purposes only. The author does not encourage or endorse misuse. By using this tool, you accept full responsibility for your actions and compliance with Facebook's terms of service and applicable laws. The author is not liable for any consequences, including account bans or legal issues. Use at your own risk.
 
