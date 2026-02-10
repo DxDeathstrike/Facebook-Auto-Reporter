@@ -17,14 +17,7 @@ build/
 Thumbs.db
 
 # Python files
-
-fbautoreporter.py
-updater.py
 *.py
-# Text files
-main.txt
-version.txt
-*.txt
 
-# Images
-*.jpg
+# Text files
+*.txt
